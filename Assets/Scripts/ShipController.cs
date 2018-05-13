@@ -15,9 +15,6 @@ public class ShipController : MonoBehaviour {
 	[Tooltip("rotation of the spacecraft while moving")]
 	public float strafeRotation = 1f;
 
-	public float collisionBounce = 1000f;
-	public float jitter = .5f;
-
 	public GameObject explosionPrefab;
 
 	private Vector3[] trail;
