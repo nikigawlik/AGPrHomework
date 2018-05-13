@@ -17,4 +17,5 @@ The buildings are your enemies, kill them for maximum score.
 ## version history ##
 
 v1.0 - Prototype, all basic requirements fulfilled (current latest build)
+
 v1.1 - Moved some script files to the right folder
